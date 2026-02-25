@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 scikit-learn
 nltk
+=======
+streamlit
+scikit-learn
+nltk
+>>>>>>> 1d7298a06682074386338a8b158f825bd1f6cb26
 pandas
