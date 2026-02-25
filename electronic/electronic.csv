@@ -1,0 +1,17 @@
+Product,Category,Price,Units_Sold,Rating
+Smartphone A,Mobile,14999,540,4.3
+Smartphone B,Mobile,19999,420,4.5
+Laptop A,Laptop,52999,180,4.2
+Laptop B,Laptop,65999,150,4.6
+Tablet X,Tablet,12999,350,4.1
+Tablet Y,Tablet,18999,220,4.4
+Headphones P,Audio,2999,870,4.0
+Headphones Q,Audio,3999,690,4.2
+Smartwatch S,Wearable,8999,410,4.3
+Smartwatch T,Wearable,11999,330,4.5
+Bluetooth Speaker A,Audio,4999,520,4.1
+Bluetooth Speaker B,Audio,6999,430,4.4
+Monitor A,Computer,10999,210,4.2
+Monitor B,Computer,14999,190,4.5
+Keyboard X,Computer,1499,780,4.0
+Mouse Y,Computer,899,920,4.1

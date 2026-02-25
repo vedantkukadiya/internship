@@ -1,0 +1,10 @@
+artifact_location: file:D:/Pyhton/FlipkartAnalysis-mlflow/code/mlruns/514384158641263132/models/m-2882e9520ab843aca3b7cf631ff59235/artifacts
+creation_timestamp: 1770733477937
+experiment_id: '514384158641263132'
+last_updated_timestamp: 1770733483799
+model_id: m-2882e9520ab843aca3b7cf631ff59235
+model_type: null
+name: sentiment_model
+source_run_id: fa24cd3e79dc41d0b9f23a6b9a3fdcbc
+status: 2
+status_message: null

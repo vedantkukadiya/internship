@@ -1,0 +1,15 @@
+artifact_path: file:D:/Pyhton/FlipkartAnalysis-mlflow/code/mlruns/514384158641263132/models/m-fcedf438ac194c19ba622de07e109c84/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-fcedf438ac194c19ba622de07e109c84
+model_size_bytes: 117665
+model_uuid: m-fcedf438ac194c19ba622de07e109c84
+prompts: null
+run_id: 218416b7d9ce4cbf9fc21b1563b443bf
+utc_time_created: '2026-02-10 14:24:55.622788'

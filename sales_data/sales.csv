@@ -1,0 +1,16 @@
+Date,Product,Category,Units_Sold,Unit_Price,Revenue,Region
+2024-01-01,Phone,Electronics,50,15000,750000,North
+2024-01-01,Laptop,Electronics,20,55000,1100000,North
+2024-01-01,Headphones,Accessories,80,2000,160000,North
+2024-01-02,Phone,Electronics,40,15000,600000,South
+2024-01-02,Laptop,Electronics,15,55000,825000,South
+2024-01-02,Headphones,Accessories,100,2000,200000,South
+2024-01-03,Phone,Electronics,65,15000,975000,East
+2024-01-03,Laptop,Electronics,25,55000,1375000,East
+2024-01-03,Headphones,Accessories,70,2000,140000,East
+2024-01-04,Phone,Electronics,55,15000,825000,West
+2024-01-04,Laptop,Electronics,18,55000,990000,West
+2024-01-04,Headphones,Accessories,90,2000,180000,West
+2024-01-05,Phone,Electronics,30,15000,450000,North
+2024-01-05,Laptop,Electronics,12,55000,660000,North
+2024-01-05,Headphones,Accessories,40,2000,80000,North

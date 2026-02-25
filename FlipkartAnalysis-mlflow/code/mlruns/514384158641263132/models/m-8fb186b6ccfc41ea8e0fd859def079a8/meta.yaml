@@ -1,0 +1,10 @@
+artifact_location: file:D:/Pyhton/FlipkartAnalysis-mlflow/code/mlruns/514384158641263132/models/m-8fb186b6ccfc41ea8e0fd859def079a8/artifacts
+creation_timestamp: 1770733483883
+experiment_id: '514384158641263132'
+last_updated_timestamp: 1770733489431
+model_id: m-8fb186b6ccfc41ea8e0fd859def079a8
+model_type: null
+name: tfidf_vectorizer
+source_run_id: fa24cd3e79dc41d0b9f23a6b9a3fdcbc
+status: 2
+status_message: null

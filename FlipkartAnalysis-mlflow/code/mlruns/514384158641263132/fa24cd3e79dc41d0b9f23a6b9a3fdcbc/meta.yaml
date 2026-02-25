@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Pyhton/FlipkartAnalysis-mlflow/code/mlruns/514384158641263132/fa24cd3e79dc41d0b9f23a6b9a3fdcbc/artifacts
+end_time: 1770733489449
+entry_point_name: ''
+experiment_id: '514384158641263132'
+lifecycle_stage: active
+run_id: fa24cd3e79dc41d0b9f23a6b9a3fdcbc
+run_name: LR_TFIDF_3000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770733477654
+status: 3
+tags: []
+user_id: AM

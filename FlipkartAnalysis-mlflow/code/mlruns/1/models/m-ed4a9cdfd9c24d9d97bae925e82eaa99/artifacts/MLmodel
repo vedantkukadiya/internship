@@ -1,0 +1,15 @@
+artifact_path: file:D:/FlipkartAnalysis-mlflow/code/mlruns/1/models/m-ed4a9cdfd9c24d9d97bae925e82eaa99/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-ed4a9cdfd9c24d9d97bae925e82eaa99
+model_size_bytes: 117665
+model_uuid: m-ed4a9cdfd9c24d9d97bae925e82eaa99
+prompts: null
+run_id: aed556ec86f7437ab2dd68ed5b52787c
+utc_time_created: '2026-02-08 15:24:54.474575'

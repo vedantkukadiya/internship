@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask Name Converter</title>
+    
+</head>
+<body>
+
+<div class="card">
+    {% if username %}
+        <h1>Hello, {{ username }} </h1>
+        <div class="info"> Name Length: {{ length }}</div>
+        <div class="info"> Current Time: {{ time }}</div>
+    {% else %}
+        <h1>Welcome to Flask App </h1>
+        <p class="info">Pass your name in the URL</p>
+    {% endif %}
+
+    <div class="hint">
+        Example: <br>
+        <b>?name=vedant</b>
+    </div>
+</div>
+
+</body>
+</html>

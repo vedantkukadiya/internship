@@ -1,0 +1,11 @@
+MatchID,Season,Team1,Team2,Winner,Player_of_Match,Runs_Scored,Wickets,Top_Scorer,Top_Scorer_Runs,Top_Bowler,Top_Bowler_Wickets,Toss_Winner,Toss_Decision
+1,2022,MI,CSK,MI,Rohit Sharma,88,0,Rohit Sharma,88,Jasprit Bumrah,3,CSK,Bat
+2,2022,RCB,KKR,RCB,Faf du Plessis,72,0,Faf du Plessis,72,Harshal Patel,4,KKR,Bowl
+3,2022,GT,RR,GT,Shubman Gill,96,0,Shubman Gill,96,Rashid Khan,3,GT,Bat
+4,2022,SRH,DC,DC,Rishabh Pant,62,0,Rishabh Pant,62,Kuldeep Yadav,4,SRH,Bat
+5,2022,PBKS,LSG,LSG,KL Rahul,84,0,KL Rahul,84,Avesh Khan,3,PBKS,Bowl
+6,2022,MI,RCB,RCB,Virat Kohli,77,0,Virat Kohli,77,Hasaranga,3,MI,Bat
+7,2022,CSK,RR,RR,Jos Buttler,110,0,Jos Buttler,110,Yuzvendra Chahal,4,RR,Bat
+8,2022,KKR,GT,GT,Hardik Pandya,60,1,Hardik Pandya,60,Lockie Ferguson,3,KKR,Bowl
+9,2022,DC,PBKS,DC,David Warner,92,0,David Warner,92,Axar Patel,2,DC,Bowl
+10,2022,RR,SRH,RR,Sanju Samson,85,0,Sanju Samson,85,Trent Boult,3,SRH,Bat

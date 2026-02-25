@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Pyhton/FlipkartAnalysis-mlflow/code/mlruns/514384158641263132/7ae53df367114fb5aec9edc1eabb2cdc/artifacts
+end_time: 1770700782123
+entry_point_name: ''
+experiment_id: '514384158641263132'
+lifecycle_stage: active
+run_id: 7ae53df367114fb5aec9edc1eabb2cdc
+run_name: indecisive-carp-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770700782043
+status: 3
+tags: []
+user_id: AM

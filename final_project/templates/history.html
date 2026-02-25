@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>URL History</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 40px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 25px;
+      border-radius: 6px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      margin-bottom: 15px;
+    }
+
+    a {
+      display: inline-block;
+      margin-bottom: 15px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+
+    th {
+      background: #eee;
+    }
+
+    .empty {
+      text-align: center;
+      color: #777;
+      padding: 30px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <a href="/">← Back to Home</a>
+
+    <h1>URL History</h1>
+
+    {% if urls %}
+      <table>
+        <thead>
+          <tr>
+            <th>Original URL</th>
+            <th>Short URL</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for url in urls %}
+          <tr>
+            <td>{{ url.long_url }}</td>
+            <td>{{ request.host_url }}{{ url.short_code }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% else %}
+      <div class="empty">
+        No URLs shortened yet.
+      </div>
+    {% endif %}
+
+  </div>
+</body>
+</html>
